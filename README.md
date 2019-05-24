@@ -2,6 +2,11 @@
 
 This repository contains javascript code to visualize as a graph the similarity between Steam games.
 
+## Visualization
+
+-   [top100in2weeks](top100in2weeks/),
+-   [top1000owned](top1000owned/).
+
 ## References
 
 -   [Visualization template](https://github.com/aesuli/word2vec_exploration/tree/master/visualization_template),
