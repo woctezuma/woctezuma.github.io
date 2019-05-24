@@ -1506,7 +1506,7 @@ var nodes= [
 {"name":"Keebles"},
 {"name":"Wellington's Victory"},
 {"name":"War Machines: Free to Play"},
-{"name":"RESIDENT EVIL 2 / BIOHAZARD RE:2 "1-Shot Demo""},
+{"name":"RESIDENT EVIL 2 / BIOHAZARD RE:2 '1-Shot Demo'"},
 {"name":"SBX: Invasion"},
 {"name":"Soda Girls"},
 {"name":"Devil's Hunt"},
