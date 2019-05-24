@@ -1,4 +1,5 @@
-var nodes= [{"name":"SolForge"},
+var nodes= [
+{"name":"SolForge"},
 {"name":"No More Room in Hell"},
 {"name":"Borderlands: The Pre-Sequel"},
 {"name":"Counter-Strike"},
@@ -246,7 +247,8 @@ var nodes= [{"name":"SolForge"},
 {"name":"PAYDAY 2"},
 {"name":"ARK: Survival Evolved"},
 ]
-var links = [{ source: nodes[12], target: nodes[231]},
+var links = [
+{ source: nodes[12], target: nodes[231]},
 { source: nodes[12], target: nodes[63]},
 { source: nodes[12], target: nodes[214]},
 { source: nodes[12], target: nodes[173]},
